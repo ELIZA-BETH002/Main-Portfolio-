@@ -304,7 +304,7 @@ function sendEmail(){
     SecureToken : "acfa8ef4-0d1d-4fd8-a6ab-bea6c8c17936",
     Username : "elizabethnwaugo@gmail.com",
     Password : "xqjgywnwpyyaeclc",
-    To : 'elizabethnwaugo@gmail.com',
+    To : 'nwaugochimuanya@gmail.com',
     From : document.getElementById("email").value,
     Subject : "This is the subject",
     Body : "And this is the body"
